@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zxoid
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing atn
+- 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me Zxoid#1628
 
 <!---
