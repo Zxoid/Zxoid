@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zxoid!
 - 👀 I’m Interested in making Discord Bots, Minecraft Mods and more!
-- 🌱 I’m currently learning python but will soon learn JavaScript!
 - 📫 You can reach me by adding me on discord Zxoid#1628
 
 <!---
