@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Zxoid!
-- 👀 I’m Interested in making Discord Bots, Minecraft Mods and more!
-- 📫 You can reach me by adding me on discord Zxoid#1628
+Professional Discord Moderator
 
 <!---
 Zxoid/Zxoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
